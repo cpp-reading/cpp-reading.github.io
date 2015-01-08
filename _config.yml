@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : C++ reading in Osaka
-tagline: Site Tagline
+tagline: C++11/14/17
 author :
   name : C++ Readnig in Osaka
   email : haruka.sao@gmail.com
