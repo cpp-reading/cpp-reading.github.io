@@ -9,11 +9,11 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : C++ reading in Osaka
-tagline: C++11/14/17
+tagline: C++11,C++14,C++17
 author :
   name : C++ Readnig in Osaka
   email : haruka.sao@gmail.com
-  github : h-sao
+  github : cpp-reading
   twitter : hr_sao
 #  feedburner : 
 
