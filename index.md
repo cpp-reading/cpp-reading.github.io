@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C++読書会in大阪のページにようこそ！
-tagline: Supporting tagline
+title: C++読書会in大阪のページ
+tagline: C++11/14/17
 ---
 {% include JB/setup %}
 

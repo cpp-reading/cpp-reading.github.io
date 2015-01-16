@@ -9,12 +9,12 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : C++ reading in Osaka
-tagline: C++11,C++14,C++17
+tagline: C++11/14/17
 author :
   name : C++ Readnig in Osaka
   email : haruka.sao@gmail.com
   github : cpp-reading
-  twitter : hr_sao
+  twitter : cpptmp読書会
 #  feedburner : 
 
 # The production_url is only used when full-domain names are needed
@@ -79,19 +79,20 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : harukasao
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+
+#  comments :
+#    provider : disqus
+#    disqus :
+#      short_name : harukasao
+#    livefyre :
+#      site_id : 123
+#    intensedebate :
+#      account : 123abc
+#    facebook :
+#      appid : 123
+#      num_posts: 5
+#      width: 580
+#      colorscheme: light
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
